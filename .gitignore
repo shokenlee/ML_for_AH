@@ -135,3 +135,5 @@ dmypy.json
 .xlsx
 .fas
 biolib_results/
+SourceData/
+TrainingData/
