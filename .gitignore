@@ -134,6 +134,8 @@ dmypy.json
 # Data
 .xlsx
 .fas
-biolib_results/
-SourceData/
-TrainingData/
+
+# Add on directories
+/biolib_results
+/SourceData
+/TrainingData
