@@ -132,10 +132,5 @@ dmypy.json
 .DS_Store
 
 # Data
-.xlsx
-.fas
-
-# Add on directories
-/biolib_results
-/SourceData
-/TrainingData
+*.xlsx
+*.fas
